@@ -1,0 +1,10 @@
+d04a6833433d7787d0d8ecebedf27d24 *DESCRIPTION
+e8c1458438ead3c34974bc0be3a03ed6 *LICENSE
+ebb17cb3557b2d5da217fef8ae740135 *NAMESPACE
+f0b3b0c1002161a49e52fa59537be534 *R/drandomForest.R
+f6ed5c851c715e418baba6be2d803b79 *README.md
+89278c74eef46dfccf454fb7b823e023 *man/drandomForest-package.Rd
+280e58ab74ab1a5aa575347396338494 *man/drandomForest.Rd
+d4f887da90f7d0dfe25d23c6b8552587 *man/predict.drandomForest.Rd
+7ff804f23a26d0bd76f1cfa6543789f7 *tests/test-all.R
+97c49df7cffe066b56ee74cbbd9f3204 *tests/testthat/test-drandomForest.R
