@@ -1,10 +1,10 @@
-d04a6833433d7787d0d8ecebedf27d24 *DESCRIPTION
+35cda0c614113e4e5f6b788c92726944 *DESCRIPTION
 e8c1458438ead3c34974bc0be3a03ed6 *LICENSE
-ebb17cb3557b2d5da217fef8ae740135 *NAMESPACE
+48152de50a1fc3a56c8a6d3e22394bce *NAMESPACE
 f0b3b0c1002161a49e52fa59537be534 *R/drandomForest.R
-f6ed5c851c715e418baba6be2d803b79 *README.md
-89278c74eef46dfccf454fb7b823e023 *man/drandomForest-package.Rd
-280e58ab74ab1a5aa575347396338494 *man/drandomForest.Rd
-d4f887da90f7d0dfe25d23c6b8552587 *man/predict.drandomForest.Rd
+0fd7903b4f13fbe56da0d95a048555a6 *README.md
+d327f269db8d8c89794e78b0ef09a1b0 *man/drandomForest.Rd
+45280bff9ac78c1dbd7e42650d44add4 *man/predict.drandomForest.Rd
+c973a408ba1f6365bfd9103ff71ce4b1 *man/randomForest.ddR-package.Rd
 7ff804f23a26d0bd76f1cfa6543789f7 *tests/test-all.R
-97c49df7cffe066b56ee74cbbd9f3204 *tests/testthat/test-drandomForest.R
+49b22cbb99f6418d9840dac2911c3e5f *tests/testthat/test-drandomForest.R
